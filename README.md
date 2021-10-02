@@ -19,3 +19,7 @@ FILES IN MAIN DIRECTORY
 2. _CONFIG.YML
 3. GITIGNORE
 
+Posts:
+1. Site launched
+2. Dubai UAE
+3. Dodge Charger SRT
