@@ -1,6 +1,7 @@
 # MalikAsad01.github.io
 
 website : MalikAsad01.github.io
+
 The page contains 3 tabs (Home, Blog, About) where Home is the welcome page, Blog contains a few random posts (like Dubai UAE, Dodge Charger SRT) .About contains personal information like name, email. The page contains background, gif and a few pictures.
 •	Link to the web page: MalikAsad01.github.io
 •	Link to the repository: github.com/MalikAsad01
